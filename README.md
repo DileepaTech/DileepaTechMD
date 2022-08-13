@@ -18,11 +18,11 @@
   </a>
 
 <p align="center">
-  <a href="https://github.com/FantoX001/Miku-MD">
+  <a href="https://github.com/DileepaTech/DileepaTechMD">
     <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/DileepaTech/DileepaTechMD.visitor-badge&left_text=Total%20Repo%20Visits">
     
     
-<a href="https://github.com/FantoX001">
+<a href="https://github.com/DileepaTech/DileepaTechMD">
     <img src="(https://visitor-badge.glitch.me/badge?page_id=https://github.com/DileepaTech/DileepaTechMD.visitor-badge&left_text=Total%20Repo%20Visitors)">
   </a>
 </br>
@@ -36,8 +36,8 @@
 
 
 ### ✧ Deploy Video tutorial:
-- Here's the [video tutorial](https://youtu.be/fZdM7Ahb4JE) on how to deploy and host Dileepa Tech MD.
-- [Video Guide](https://youtu.be/fZdM7Ahb4JE)
+- Here's the [video tutorial](https://youtu.be) on how to deploy and host Dileepa Tech MD.
+- [Video Guide](https://youtu.be)
 </br>
 
 
@@ -68,7 +68,7 @@
 </a>
 #### ✧ Next download that `session.json` file and replace it with the older one present the hompage of your [`Fork`](https://github.com/DileepaTech/DileepaTechMD/fork).
 
-#### ✧ After that edit the `README.md` file and change the template link present on line no:`39` with your forked repo link.(Example: `https://github.com/<your GitHub username>/Miku-MD`)
+#### ✧ After that edit the `README.md` file and change the template link present on line no:`39` with your forked repo link.(Example: `https://github.com/<your GitHub username>/DILEEPATECHMD`)
 
 #### ✧ Next
 
@@ -147,7 +147,7 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 ## ✧✧✧ License and recode Permission:
 - Well, it's the most asked question !
 - And the answer is `"Permission is hereby granted for 100% modification/recode."`
-- And this project comes under [`MIT`](https://github.com/FantoX001/Miku-MD/blob/main/LICENSE.md) lincense.
+- And this project comes under [`MIT`](https://github.com/DileepaTech/DileepaTechMD/blob/main/LICENSE.md) lincense.
 - Please at least [`Follow`](https://github.com/DileepaTech/#follow) me on GitHub to show some appreciation.
    
    
