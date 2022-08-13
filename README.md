@@ -41,7 +41,7 @@
 </br>
 
 
-## ✧✧✧ Why use Miku as your Base?
+## ✧✧✧ Why use bot as your Base?
 
 ```
 1. Copyright Free.
@@ -110,7 +110,7 @@ heroku/nodejs
 ## ✧✧✧ CMD Deployment Method
 ```
 git clone https://github.com/DileepaTech/DileepaTechMD.git
-cd Miku-MD
+cd 
 npm start
 ```
 
@@ -138,7 +138,7 @@ cd Miku-MD
 npm start
 ```
 
-## ✧✧✧ To keep Miku alive without internet 24/7
+## ✧✧✧ To keep bot alive without internet 24/7
 
 ```
 npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
