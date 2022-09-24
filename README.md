@@ -1,29 +1,29 @@
 <p align="center">
-   <a href="https://github.com/DileepaTech">
+   <a href="https://github.com/FantoX001">
     <img src="https://c.tenor.com/NJVFjOYEcsIAAAAC/miku-gotoubun.gif" width="610">
      
 </p>
-<h1 align="center"> Dileepa Tech Bot MD 
+<h1 align="center"> DileepaTech MD
 </h1>
 <p align="center"> 
-  I am "Dileepa Tech" a WhatsApp bot made by Dileepa to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
+  Konochiwa Senpai, I am "DileepaTech MD" a WhatsApp bot made by Fantox to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
 
 <p align="center">
-  <a href="https://github.com/DileepaTech/DileepaTechMD/fork">
+  <a href="https://github.com/DileepaTech MD/Miku-MD/fork">
     <img src="https://img.shields.io/github/forks/FantoX001/Miku-MD?label=Fork&style=social">
     
     
-  <a href="https://github.com/DileepaTech/DileepaTechMD/stargazers">
+  <a href="https://github.com/DileepaTech MD/Miku-MD/stargazers">
     <img src="https://img.shields.io/github/stars/FantoX001/Miku-MD?style=social">
   </a>
 
 <p align="center">
-  <a href="https://github.com/DileepaTech/DileepaTechMD">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/DileepaTech/DileepaTechMD.visitor-badge&left_text=Total%20Repo%20Visits">
+  <a href="https://github.com/DileepaTech MD/Miku-MD">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/FantoX001/Miku-MD.visitor-badge&left_text=Total%20Repo%20Visits">
     
     
-<a href="https://github.com/DileepaTech/DileepaTechMD">
-    <img src="(https://visitor-badge.glitch.me/badge?page_id=https://github.com/DileepaTech/DileepaTechMD.visitor-badge&left_text=Total%20Repo%20Visitors)">
+<a href="https://github.com/DileepaTech MD">
+    <img src="(https://visitor-badge.glitch.me/badge?page_id=https://github.com/FantoX001/Shikimori-MD.visitor-badge&left_text=Total%20Repo%20Visitors)">
   </a>
 </br>
       
@@ -35,13 +35,11 @@
 ### ✧ Use `Heroku Deploy Method 2` for easy and more convenient deploy(Trust me).    
 
 
-### ✧ Deploy Video tutorial:
-- Here's the [video tutorial](https://youtu.be) on how to deploy and host Dileepa Tech MD.
-- [Video Guide](https://youtu.be)
+
 </br>
 
 
-## ✧✧✧ Why use bot as your Base?
+## ✧✧✧ Why use Miku as your Base?
 
 ```
 1. Copyright Free.
@@ -64,15 +62,15 @@
 
 #### ✧ Fork this repo.
 #### ✧ Click this scan button below and scan the given QR within 10 seconds from your WhatsApp. 
-<a href="https://replit.com/@yasasdileepara1/Dileepa-Tech-MD-QR-CODE?v=1/"><img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="100" />
+<a href="https://shikimoriqr.herokuapp.com/"><img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="100" />
 </a>
-#### ✧ Next download that `session.json` file and replace it with the older one present the hompage of your [`Fork`](https://github.com/DileepaTech/DileepaTechMD/fork).
+#### ✧ Next download that `session.json` file and replace it with the older one present the hompage of your [`Fork`](https://github.com/DileepaTech/Miku-MD/fork).
 
-#### ✧ After that edit the `README.md` file and change the template link present on line no:`39` with your forked repo link.(Example: `https://github.com/<your GitHub username>/DILEEPATECHMD`)
+#### ✧ After that edit the `README.md` file and change the template link present on line no:`39` with your forked repo link.(Example: `https://github.com/<your GitHub username>/DileepaTech`)
 
 #### ✧ Next
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DileepaTech/DileepaTechMD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/FantoX001/Miku-MD)
 
 
 ## ✧✧✧ Heroku Deployment Method 2:
@@ -104,13 +102,13 @@ heroku/nodejs
 
 ## ✧✧✧ Join My Whatsapp Group for Support
 
-<a href="https://github.com/DileepaTech/DileepaTechMD"><img src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/JcBzjRIxM5UHfuJbt0KrWt"><img src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
 ## ✧✧✧ CMD Deployment Method
 ```
-git clone https://github.com/DileepaTech/DileepaTechMD.git
-cd 
+git clone https://github.com/FantoX001/Miku-MD.git
+cd Miku-MD
 npm start
 ```
 
@@ -138,7 +136,7 @@ cd Miku-MD
 npm start
 ```
 
-## ✧✧✧ To keep bot alive without internet 24/7
+## ✧✧✧ To keep Miku alive without internet 24/7
 
 ```
 npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
@@ -147,8 +145,8 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 ## ✧✧✧ License and recode Permission:
 - Well, it's the most asked question !
 - And the answer is `"Permission is hereby granted for 100% modification/recode."`
-- And this project comes under [`MIT`](https://github.com/DileepaTech/DileepaTechMD/blob/main/LICENSE.md) lincense.
-- Please at least [`Follow`](https://github.com/DileepaTech/#follow) me on GitHub to show some appreciation.
+- And this project comes under [`MIT`](https://github.com/FantoX001/Miku-MD/blob/main/LICENSE.md) lincense.
+- Please at least [`Follow`](https://github.com/FantoX001/#follow) me on GitHub to show some appreciation.
    
    
 ## ✧ Reminder:
@@ -164,7 +162,7 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 
 
 ## ✧ Help Me:
-- [`Follow`](https://github.com/DileepaTech/#follow) me on GitHub to make me feel motivated.
+- [`Follow`](https://github.com/FantoX001/#follow) me on GitHub to make me feel motivated.
 - Give my project a ⭐ if you liked it.
 
      

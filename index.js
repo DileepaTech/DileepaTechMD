@@ -26,14 +26,14 @@ console.log(color(figlet.textSync('Miku Bot MD', {
 		whitespaceBreak: true
         }), 'yellow'))
 
-console.log(color('\nHello, I am Fantox, the main developer of this bot.\n\nThanks for using: DileepaTech Md Bot','aqua'))
-console.log(color('\nYou can follow me on GitHub: FantoX001','aqua'))
+console.log(color('\nHello, I am DileepaTech, the main developer of this bot.\n\nThanks for using: DileepaTech MD','aqua'))
+console.log(color('\nYou can follow me on GitHub: DileepaTech','aqua'))
 
     let { version, isLatest } = await fetchLatestBaileysVersion()
-    const Miku = MikuConnect({
+    const DileepaTech = MikuConnect({
         logger: pino({ level: 'silent' }),
         printQRInTerminal: true,
-        browser: ['Miku by: Fantox','Safari','1.0.0'],
+        browser: ['DileepaTech MD by: DileepaTech','Safari','1.0.0'],
         auth: state,
         version
     })
@@ -45,7 +45,7 @@ store.bind(Miku.ev)
     const callerId = json.content[0].attrs['call-creator']
     if (json.content[0].tag == 'offer') {
     let pa7rick = await Miku.sendContact(callerId, global.owner)
-    Miku.sendMessage(callerId, { text: ` You will be blocked automatically for calling me! *DileepaTech Md Bot*`}, { quoted : pa7rick })
+    Miku.sendMessage(callerId, { text: `Baka! You will be blocked automatically for calling me!`}, { quoted : pa7rick })
     await sleep(8000)
     await Miku.updateBlockStatus(callerId, "block")
     }
@@ -60,7 +60,7 @@ if (mek.key && mek.key.remoteJid === 'status@broadcast') return
 if (!Miku.public && !mek.key.fromMe && chatUpdate.type === 'notify') return
 if (mek.key.id.startsWith('BAE5') && mek.key.id.length === 16) return
 m = smsg(Miku, mek, store)
-require("./Core")(Miku, m, chatUpdate, store)
+require("./Core")(MDileepaTech MD, m, chatUpdate, store)
 } catch (err) {
 console.log(err)
 }
@@ -121,7 +121,7 @@ Miku.ev.on('group-participants.update', async (anu) => {
                 Mikutext = `
 Hello @${WAuserName.split("@")[0]},
 
-I am *Miku Nakano*, Welcome to ${metadata.subject}.
+I am *DileepaTech MD*, Welcome to ${metadata.subject}.
 
 *Group Description:*
 ${metadata.desc}
@@ -142,13 +142,13 @@ Miku.sendMessage(anu.id, buttonMessage)
                 } else if (anu.action == 'remove') {
                 	let WAuserName = num
                     Mikutext = `
-Sayonara 👋, @${WAuserName.split("@")[0]},
+bye 👋, @${WAuserName.split("@")[0]},
 
 I hope you will come back soon, but we are not going to miss you though!
 `
 
 let Mikubuttons = [
-    {buttonId: `none`, buttonText: {displayText: '👋 Bye buddy 👋'}, type: 1}
+    {buttonId: `none`, buttonText: {displayText: '👋 bye buddy 👋'}, type: 1}
     ]
     let buttonMessage = {
     jpegThumbnail:mikuByepp,
@@ -248,7 +248,7 @@ let Mikubuttons = [
             else if (reason === DisconnectReason.timedOut) { console.log("Connection TimedOut, Reconnecting..."); startMiku(); }
             else { console.log(`Unknown DisconnectReason: ${reason}|${connection}`) }
         }
-        console.log('Connected...', update)
+        console.log('Connected...DileepaTech MD', update)
     })
 
     Miku.ev.on('creds.update', saveState)

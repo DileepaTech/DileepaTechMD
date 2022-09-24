@@ -10,12 +10,12 @@ global.antitags = true
 global.Owner = ['94705674697']
 global.OwnerNumber = ['94705674697']
 global.ownertag = ['94705674697']
-global.BotName = "DileepaTech"
-global.packname = "DileepaTech bot"
-global.author = "By: dileepa"
-global.OwnerName = "Dileepa"
+global.BotName = "DileepaTech MD"
+global.packname = "Miku bot"
+global.author = "By: DileepaTech"
+global.OwnerName = "DileepaTech"
 global.BotSourceCode = "https://github.com/DileepaTech"
-global.SupportGroupLink = "http://dileepatech.ga"
+global.SupportGroupLink = "https://github.com/DileepaTech"
 global.sessionName = "session"
 
 // Prefix //
@@ -26,7 +26,7 @@ global.prefa = ['-']
 global.location = "West Bengal, India"
 global.reactmoji = "❤️"
 global.themeemoji = "💖"
-global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
+global.vidmenu = { url: 'https://www.heroku.com' }
 global.websitex = "https://github.com/DileepaTech"
 global.lolhuman = "KaysaS"
 
@@ -59,18 +59,18 @@ global.ntilink = []
 
 global.mess = {
     jobdone: 'Job done...',
-    useradmin: 'Sorry, only *Group Admins* can use this command !',
+    useradmin: 'Sorry, only *Group Admins* can use this command *Baka*!',
     botadmin: 'Sorry, i cant execute this command without being an *Admin* of this group.',
-    botowner: 'Only my *Owner* can use this command',
-    grouponly: 'This command is only made for *Groups*,!',
-    privateonly: 'This command is only made for *Private Chat*, ',
+    botowner: 'Only my *Owner* can use this command, Baka!',
+    grouponly: 'This command is only made for *Groups*, Baka!',
+    privateonly: 'This command is only made for *Private Chat*, Baka!',
     botonly: 'Only the *Bot itself* can use this command!',
     waiting: 'Chotto Matte...',
-    nolink: 'Please provide me *link*,',
+    nolink: 'Please provide me *link*, Baka!',
     error: 'An error occurd!',
     banned: 'You are *Banned* fron using commands!',
     bangc: 'This Group is *Banned* from using Commands!',
-    nonsfw: 'Dont be a pervert  This is not a NSFW enabled group!'
+    nonsfw: 'Dont be a pervert Baka! This is not a NSFW enabled group!'
     
 }
 

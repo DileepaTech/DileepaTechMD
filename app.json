@@ -1,7 +1,7 @@
 {
-  "name": "DileepaTechMD",
+  "name": "DileepaTech MD",
   "description": "A whatsApp bot based on Baileys linrary with Multi Device support",
-  "repository": "https://github.com/DileepaTech/DileepaTechMD",
+  "repository": "https://github.com/DileepaTech",
   "logo": "https://wallpapercave.com/wp/wp10524580.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
